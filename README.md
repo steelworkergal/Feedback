@@ -2,15 +2,11 @@
 
 This repository is for tracking bugs and providing suggestions for ALL CoFH mods. It's far easier for us to check one place instead of 6 or 7. Use the issue tracker associated with this repository for bug reports and feature suggestions.
 
-## TEMPORARILY LOCKED
-
-New updates just came out and hotfixes have already been released. If you are having an issue, go re-download the LATEST versions of CoFH mods. The tracker will come back online on Jan 3. This just saves me the trouble of marking "duplicate" and having to close the same issue 50 times.
-
-#### Okay, so here's the deal.
+### Okay, so here's the deal.
 
 This repository is for tracking bugs and providing suggestions for ALL CoFH mods. It's far easier for us to check one place instead of 6 or 7. Use the issue tracker associated with this repository for bug reports and feature suggestions.
 
-##### If your game is crashing on startup:
+### If your game is crashing on startup:
 
 - The issue is practically guaranteed to be on your end. This is not tech support, please check the IRC. The link is below.
 - Update to Java 8. Uninstall Java 6.
@@ -22,7 +18,7 @@ This repository is for tracking bugs and providing suggestions for ALL CoFH mods
 - If that last step worked, you may have a mod-conflict. Update all of your mods.
 - If you still have an actual issue, report away!
 
-##### If you want to report a bug:
+### If you want to report a bug:
 
 - Include the mod name and version.
 - Include a pastebin (or equivalent) link to a list of all your mods.
@@ -33,7 +29,7 @@ This repository is for tracking bugs and providing suggestions for ALL CoFH mods
 
 If you can't do the above, please do not report any bugs.
 
-##### If you have a suggestion:
+### If you have a suggestion:
 
 - Include the mod name.
 - Provide a reason.
@@ -43,7 +39,7 @@ If you can't do the above, please do not report any bugs.
 
 If you cannot do the above, please do not suggest any features.
 
-#### Homepage
+## Homepage
 
 [TeamCoFH Home Page](http://teamcofh.com/)
 
