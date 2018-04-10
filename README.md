@@ -43,6 +43,6 @@ If you cannot do the above, please do not suggest any features.
 
 [TeamCoFH Home Page](http://teamcofh.com/)
 
-[IRC #ThermalExpansion on esper.net](http://webchat.esper.net/?nick=ThermalWiki....&channels=ThermalExpansion)
+[TeamCoFH Discord](https://discordapp.com/invite/uRKrnbH)
 
 ©2012-2018 Cult of the Full Hub / Team CoFH / CoFH
